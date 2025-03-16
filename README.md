@@ -10,7 +10,7 @@
 - Современный дизайн с тёмной темой и закруглёнными кнопками.
 
 ## Скриншот
-![Скриншот калькулятора](screenshot.png) <!-- Добавь скриншот, если есть -->
+![Image](https://github.com/user-attachments/assets/c3239568-479b-4a99-8851-5a3eb16869e6)
 
 ## Установка и запуск
 
@@ -23,4 +23,4 @@
 2. Установи зависимости:
    ```bash
    pip install PyQt6
-   ![Image](https://github.com/user-attachments/assets/a7c78cd0-4d4f-49ab-b867-02dee3714385)
+![Image](https://github.com/user-attachments/assets/a7c78cd0-4d4f-49ab-b867-02dee3714385)
